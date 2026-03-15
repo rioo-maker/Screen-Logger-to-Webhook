@@ -2,7 +2,7 @@
 
 ⚠️ **Warning**
 
-Do **NOT** run this program on your main computer, if you want to test if it work you can.
+Do **NOT** run this program on your main computer, if you want to test if it work you can run it then.
 This project is provided **for educational and research purposes only**.
 
 Restarting your computer will stop the screen logger.
